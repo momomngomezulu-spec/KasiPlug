@@ -1,0 +1,51 @@
+KasiPlug/
+│
+├── index.php
+├── login.php
+├── register.php
+├── logout.php
+├── products.php
+├── product-details.php
+├── cart.php
+├── checkout.php
+├── profile.php
+├── contact-seller.php
+│
+├── config/
+│   └── db_connect.php
+│
+├── admin/
+│   ├── dashboard.php
+│   ├── users.php
+│   ├── products.php
+│   ├── categories.php
+│   ├── complaints.php
+│   └── analytics.php
+│
+├── css/
+│   ├── style.css
+│   ├── admin.css
+│   └── responsive.css
+│
+├── js/
+│   ├── script.js
+│   ├── cart.js
+│   └── validation.js
+│
+├── images/
+│   ├── logo.png
+│   ├── hero-banner.jpg
+│   └── products/
+│
+├── uploads/
+│   └── product-images/
+│
+├── database/
+│   └── kasiplug.sql
+│
+├── includes/
+│   ├── header.php
+│   ├── footer.php
+│   └── navbar.php
+│
+└── README.md
